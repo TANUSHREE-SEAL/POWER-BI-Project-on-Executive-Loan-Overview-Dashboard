@@ -114,6 +114,9 @@ Identify high-performing regions
 Track funding growth trends
 Support executive-level decision-making
 
+<img width="1325" height="736" alt="Screenshot 2026-05-14 220844" src="https://github.com/user-attachments/assets/c72c5aea-11aa-40a6-8d61-ec1ec932c311" />
+
+
 **Conclusion-**
 
 This dashboard enables financial institutions to gain actionable insights into lending operations, borrower segmentation, and repayment trends. The interactive design helps stakeholders quickly identify business opportunities, risk areas, and operational performance metrics in a centralized reporting solution.
